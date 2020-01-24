@@ -94,7 +94,7 @@ p {
 #main-content {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 10px;
   margin: 0.60rem;
   text-align: center;
