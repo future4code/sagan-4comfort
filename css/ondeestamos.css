@@ -1,0 +1,13 @@
+iframe {
+  margin: 5vh 0;
+  width:  60vw;
+  height: 60vh;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 10vh;
+}
