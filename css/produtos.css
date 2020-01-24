@@ -162,6 +162,7 @@ img {
   }
   #navbar ul li {
   border-bottom: 1px dotted #444;
+  padding: 0.5rem;
   }
 
   #main-content {
